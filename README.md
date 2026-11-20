@@ -1,6 +1,6 @@
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-magenta)](https://make.fun/bounty/gta6-meme-x-01)
-[![GTA 6 meme on X](https://img.shields.io/badge/GTA%206-meme%20on%20X-blue)](https://make.fun/bounty/gta6-meme-x-01)
-[![$500 prize pool](https://img.shields.io/badge/prize%20pool-%24500-green)](https://make.fun/bounty/gta6-meme-x-01)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/Dickykw/gta6-meme-x-01-kyy97/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/Dickykw/gta6-meme-x-01-kyy97/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 # gta6-meme-x-01 — SICK NOTE
 
@@ -46,10 +46,8 @@ on make.fun:
 the output directory, where the gate reads it. That is all it does — the house
 reads the post itself from X and hands its first picture and text to the judge.
 
-**Status: placeholder.** `POST.json` currently holds
-`https://x.com/deqqi31/status/REPLACE_AFTER_POSTING` until the meme is posted
-on X; it is replaced with the real post address (and a new commit) right after
-posting. Do not submit this repository while the placeholder is in place.
+**Status: posted.** `POST.json` holds the real post address:
+`https://x.com/Deqqi31/status/2123684186276102327`.
 
 ## Run it locally
 
